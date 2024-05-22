@@ -1,17 +1,21 @@
 # Shopping Data Clustering (final project name TBD)
 
-## Overview
-\[PLACEHOLDER\]
-
-## Table of Contents
-1. [Introduction](#introduction)
-2. [Dataset](#dataset)
-3. [Data Wrangling](#processing)
-4. [Exploratory Data Analysis (EDA)](#eda)
-5. [Clustering Algorithms](#clustering-algorithms)
-
 ## Introduction
-\[PLACEHOLDER\]
+Dataset is from [Kaggle](https://www.kaggle.com/datasets/jacksondivakarr/online-shopping-dataset).
 
 ## Dataset
+\[PLACEHOLDER\]
+
+## Data Wrangling
+* Categorization
+* Frequency of purchases
+* TF-IDF features
+
+## Exploratory Data Analysis
+\[PLACEHOLDER\]
+
+## Clustering
+We ued K-Means clustering on both the frequency of purchase per category features and the TF-IDF of the categories \[NEED TO BE EXPLAINED BETTER\].
+
+## Results
 \[PLACEHOLDER\]
